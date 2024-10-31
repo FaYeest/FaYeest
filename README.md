@@ -8,33 +8,32 @@
 
 <br/>
 
-<div class="tenor-gif-embed" data-postid="22363488" data-share-method="host" data-aspect-ratio="2.37037" data-width="100% center"><a href="https://tenor.com/view/amiya-guard-arknights-amiya-arknights-arknights-amiya-gif-22363488">Amiya Guard Arknights GIF</a>from <a href="https://tenor.com/search/amiya+guard-gifs">Amiya Guard GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNmMHp5ZW0zZndhdG42aDdtaWN4NzRleXd2czkzdWg0c2FlbTBxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0yOYF0EtwSVa/giphy.gif" width="200" alt="Tech GIF" />
+</div>
 
 <br/>
 
 <div align="center">
   <h4>👋 Hi, I’m <strong>@FaYeest</strong>!</h4>
+  
   <h4>👀 I’m passionate about:</h4>
-  <ul>
-    <li>🔒 Cyber Security</li>
-    <li>🌐 Web Development</li>
-    <li>☁️ Server and Cloud</li>
-    <li>💻 Technology</li>
-  </ul>
+  <div>🔒 Cyber Security</div>
+  <div>🌐 Web Development</div>
+  <div>☁️ Server and Cloud</div>
+  <div>💻 Technology</div>
 
   <h4>🌱 Currently learning:</h4>
-  <ul>
-    <li>🐍 Python</li>
-    <li>🐧 Linux</li>
-    <li>🌐 Networking</li>
-    <li>☕ Java</li>
-    <li>🖥️ JavaScript</li>
-    <li>💻 C</li>
-    <li>🎮 Unity</li>
-  </ul>
+  <div>🐍 Python</div>
+  <div>🐧 Linux</div>
+  <div>🌐 Networking</div>
+  <div>☕ Java</div>
+  <div>🖥️ JavaScript</div>
+  <div>💻 C</div>
+  <div>🎮 Unity</div>
 
   <h4>📫 Feel free to reach out: <a href="mailto:mtbfarrasandi@gmail.com">mtbfarrasandi@gmail.com</a> (｡˃ ᵕ ˂ )⸝♡</h4>
-  
+  <h4>💖 I love anime!</h4>
 </div>
 
 <br/>
@@ -86,7 +85,7 @@
 <hr/>
 
 <div align="center">
-  <a href ='https://ko-fi.com/your-kofi-link' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href='https://ko-fi.com/your-kofi-link' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
