@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+</div>
 
 - 👋 Hi, I’m **@FaYeest**!
 - 👀 I’m passionate about:
