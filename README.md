@@ -8,9 +8,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://tenor.com/id/view/amiya-guard-arknights-amiya-arknights-arknights-amiya-gif-22363488" width="200" alt="Tech GIF" />
-</div>
+<div class="tenor-gif-embed" data-postid="22363488" data-share-method="host" data-aspect-ratio="2.37037" data-width="100% center"><a href="https://tenor.com/view/amiya-guard-arknights-amiya-arknights-arknights-amiya-gif-22363488">Amiya Guard Arknights GIF</a>from <a href="https://tenor.com/search/amiya+guard-gifs">Amiya Guard GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <br/>
 
