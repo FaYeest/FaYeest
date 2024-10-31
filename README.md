@@ -33,7 +33,6 @@
   <div>🎮 Unity</div>
 
   <h4>📫 Feel free to reach out: <a href="mailto:mtbfarrasandi@gmail.com">mtbfarrasandi@gmail.com</a> (｡˃ ᵕ ˂ )⸝♡</h4>
-  <h4>💖 I love anime!</h4>
 </div>
 
 <br/>
