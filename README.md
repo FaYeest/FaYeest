@@ -57,11 +57,7 @@
     <img src="https://skillicons.dev/icons?i=python,linux,html,css,javascript,java,c,unity" />
     <img src="https://skillicons.dev/icons?i=git,github" />
 </div>
-
 <br/>
-<hr/>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
