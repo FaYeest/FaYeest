@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt7J7m8H5V9x9lq/giphy.gif" width="200" alt="Tech GIF" />
+  <img src="https://tenor.com/id/view/amiya-guard-arknights-amiya-arknights-arknights-amiya-gif-22363488" width="200" alt="Tech GIF" />
 </div>
 
 <br/>
