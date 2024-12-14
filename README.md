@@ -26,7 +26,7 @@
   <h4>🌱 Currently learning:</h4>
   <div>🐍 Python</div>
   <div>🐧 Linux</div>
-  <div>🌐 Networking</div>
+  <div>🌐 Penetration Tester</div>
   <div>☕ Java</div>
   <div>🖥️ JavaScript</div>
   <div>💻 C</div>
