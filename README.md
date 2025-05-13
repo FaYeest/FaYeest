@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello!;Welcome+to+my+profile!" />
 </h1>
 
-<h3 align="center">A passionate tech enthusiast from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate tech </h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<div align="center">
+<div>
   <h4>👋 Hi, I’m <strong>@FaYeest</strong>!</h4>
   
   <h4>👀 I’m passionate about:</h4>
