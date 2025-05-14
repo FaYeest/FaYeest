@@ -20,14 +20,16 @@
 
 ## 👋 About Me
 
-- 👤 Hi, I’m **@FaYeest**
+- 👤 Hi, I’m **Muhammad Tubagus Farrasandi**
 - 🔒 Interested in **Cyber Security**, **Web Development**, **Cloud Infrastructure**, and **Tech**
 - 📚 Currently learning:
   - 🐍 Python & ☕ Java
   - 🐧 Linux & 🌐 Penetration Testing
   - 💻 JavaScript & C
   - 🎮 Unity Game Development
-- 📫 Reach me at: [mtbfarrasandi@gmail.com](mailto:mtbfarrasandi@gmail.com) (｡˃ ᵕ ˂ )⸝♡
+- 📫 Reach me at:
+  - Email: [mtbfarrasandi@gmail.com](mailto:mtbfarrasandi@gmail.com) (｡˃ ᵕ ˂ )⸝♡
+  - Instagram: [@guudd_](https://www.instagram.com/guudd_?igsh=M2xreTVpNDF5YWxm) (｡˃ ᵕ ˂ )⸝♡
 
 ---
 
