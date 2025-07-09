@@ -25,7 +25,8 @@
 - 📚 Currently learning:
   - Python
   - 🐧 Linux & 🌐 Penetration Testing
-  - JavaScript
+  - Javascript
+  - Java
   - C
   - Assembly
   - Microsoft Azure
