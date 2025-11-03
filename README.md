@@ -24,12 +24,12 @@
 - 🔒 Interested in **Cyber Security**, **Web Development**, **Cloud Infrastructure**, and **Tech**
 - 📚 Currently learning:
   - Python
-  - 🐧 Linux & 🌐 Penetration Testing
+  - Linux
   - Javascript
-  - Java
   - C
   - Assembly
-  - Microsoft Azure
+  - ssh
+  - network
 - 📫 Reach me at:
   - Email: [mtbfarrasandi@gmail.com](mailto:mtbfarrasandi@gmail.com) (｡˃ ᵕ ˂ )⸝♡
   - Instagram: [@guudd_](https://www.instagram.com/guudd_?igsh=M2xreTVpNDF5YWxm) (｡˃ ᵕ ˂ )⸝♡
