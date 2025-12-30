@@ -64,11 +64,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=FaYeest&theme=vue-dark" alt="GitHub Stats"/>
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaYeest&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FaYeest&theme=vue-dark" alt="GitHub Streak" /></a>
 
 ---
 
