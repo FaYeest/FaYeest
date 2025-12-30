@@ -62,10 +62,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FaYeest&theme=vue-dark" alt="GitHub Streak" /></a>
-
----
-
 > ✨ Keep learning, keep building, and stay curious! ✨
