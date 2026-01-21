@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello!;Welcome+to+my+profile!&center=true&size=30" alt="Typing SVG" />
 </h1>
 
-<!-- Subtitle -->
-<h3 align="center">🚀 Passionate Tech Enthusiast</h3>
-
 <!-- Animated GIF -->
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNmMHp5ZW0zZndhdG42aDdtaWN4NzRleXd2czkzdWg0c2FlbTBxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0yOYF0EtwSVa/giphy.gif" width="200" alt="Tech GIF" />
@@ -18,10 +15,6 @@
 
 ---
 
-## 👋 About Me
-
-- 👤 Hi, I’m **Muhammad Tubagus Farrasandi**
-- 🔒 Interested in **Cyber Security**, **Web Development**, **Cloud Infrastructure**, and **Tech**
 - 📚 Currently learning:
   - Python
   - Linux
