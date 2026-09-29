@@ -33,26 +33,6 @@ I'm exploring **DevOps** and everything Linux/server-related — automation, net
 
 ---
 
-## 📌 Pinned Projects
-
-<div align="center">
-  <a href="https://github.com/FaYeest/metode-http-dan-htpps">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=metode-http-dan-htpps&hide_border=true&theme=tokyonight" alt="metode-http-dan-htpps" />
-  </a>
-  <a href="https://github.com/FaYeest/Doki-buildinguesh">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=Doki-buildinguesh&hide_border=true&theme=tokyonight" alt="Doki-buildinguesh" />
-  </a>
-  <br/>
-  <a href="https://github.com/FaYeest/build-apps-doki-reader">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=build-apps-doki-reader&hide_border=true&theme=tokyonight" alt="build-apps-doki-reader" />
-  </a>
-  <a href="https://github.com/FaYeest/ninym-assistant">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=ninym-assistant&hide_border=true&theme=tokyonight" alt="ninym-assistant" />
-  </a>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
