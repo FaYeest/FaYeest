@@ -8,24 +8,48 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello!;Welcome+to+my+profile!&center=true&size=30" alt="Typing SVG" />
 </h1>
 
-<!-- Animated GIF -->
+### 👋 About Me
+
+I'm exploring **DevOps** and everything Linux/server-related — automation, networking, and infrastructure. Currently sharpening my skills in Python, Bash, Docker, and Linux system administration.
+
+---
+
+## ⚒️ Tech Stack
+
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNmMHp5ZW0zZndhdG42aDdtaWN4NzRleXd2czkzdWg0c2FlbTBxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0yOYF0EtwSVa/giphy.gif" width="200" alt="Tech GIF" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,github,python,javascript,c" alt="Tech Stack Icons" />
 </div>
 
 ---
 
-- 📚 Currently learning:
-  - Python
-  - Linux
-  - Javascript
-  - C
-  - Assembly
-  - ssh
-  - network
-- 📫 Reach me at:
-  - Email: [mtbfarrasandi@gmail.com](mailto:mtbfarrasandi@gmail.com) (｡˃ ᵕ ˂ )⸝♡
-  - Instagram: [@guudd_](https://www.instagram.com/guudd_?igsh=M2xreTVpNDF5YWxm) (｡˃ ᵕ ˂ )⸝♡
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=FaYeest&show_icons=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FaYeest&layout=compact&hide_border=true" alt="Top Languages" width="38%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaYeest&hide_border=true" alt="GitHub Streak" width="60%" />
+</div>
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+  <a href="https://github.com/FaYeest/metode-http-dan-htpps">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=metode-http-dan-htpps&hide_border=true" alt="metode-http-dan-htpps" />
+  </a>
+  <a href="https://github.com/FaYeest/Doki-buildinguesh">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=Doki-buildinguesh&hide_border=true" alt="Doki-buildinguesh" />
+  </a>
+  <br/>
+  <a href="https://github.com/FaYeest/build-apps-doki-reader">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=build-apps-doki-reader&hide_border=true" alt="build-apps-doki-reader" />
+  </a>
+  <a href="https://github.com/FaYeest/ninym-assistant">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=ninym-assistant&hide_border=true" alt="ninym-assistant" />
+  </a>
+</div>
 
 ---
 
@@ -38,21 +62,4 @@
   <a href="https://www.linkedin.com/in/muhammad-tubagus-farrasandi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio-link" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
 </div>
-
----
-
-## ⚒️ Languages & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,html,css,javascript,java,c,unity" alt="Skills Icons" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control Icons" />
-</div>
-
----
-
-> ✨ Keep learning, keep building, and stay curious! ✨
