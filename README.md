@@ -25,10 +25,10 @@ I'm exploring **DevOps** and everything Linux/server-related — automation, net
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=FaYeest&show_icons=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FaYeest&layout=compact&hide_border=true" alt="Top Languages" width="38%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=FaYeest&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FaYeest&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="38%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaYeest&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaYeest&hide_border=true&theme=tokyonight" alt="GitHub Streak" width="60%" />
 </div>
 
 ---
@@ -37,17 +37,17 @@ I'm exploring **DevOps** and everything Linux/server-related — automation, net
 
 <div align="center">
   <a href="https://github.com/FaYeest/metode-http-dan-htpps">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=metode-http-dan-htpps&hide_border=true" alt="metode-http-dan-htpps" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=metode-http-dan-htpps&hide_border=true&theme=tokyonight" alt="metode-http-dan-htpps" />
   </a>
   <a href="https://github.com/FaYeest/Doki-buildinguesh">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=Doki-buildinguesh&hide_border=true" alt="Doki-buildinguesh" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=Doki-buildinguesh&hide_border=true&theme=tokyonight" alt="Doki-buildinguesh" />
   </a>
   <br/>
   <a href="https://github.com/FaYeest/build-apps-doki-reader">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=build-apps-doki-reader&hide_border=true" alt="build-apps-doki-reader" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=build-apps-doki-reader&hide_border=true&theme=tokyonight" alt="build-apps-doki-reader" />
   </a>
   <a href="https://github.com/FaYeest/ninym-assistant">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=ninym-assistant&hide_border=true" alt="ninym-assistant" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FaYeest&repo=ninym-assistant&hide_border=true&theme=tokyonight" alt="ninym-assistant" />
   </a>
 </div>
 
